@@ -1,0 +1,25 @@
+.rectangle{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: royalblue;
+    margin-top: 20px;
+    transition-duration: 1s;
+}
+
+.hide{
+    display: none;
+}
+
+.important{
+    background-color: grey;
+    transition-duration: 1s;
+}
+
+.retireSouris{
+    background-color: yellow;
+}
+
+.doubleClick{
+    background-color: red;
+}
